@@ -1,2 +1,4 @@
 obj_dir
 /main
+/main_trace
+*.vcd
