@@ -1,6 +1,6 @@
-/// @module counter
-/// @brief  A simple incremental counter
-module counter(
+/// @module Counter
+/// @brief  A simple incremental counter in verilog
+module Counter(
     input i_clk,
     output [15:0] o_value
 );
