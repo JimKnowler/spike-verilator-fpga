@@ -1,6 +1,6 @@
-/// @module Counter
+/// @module counter
 /// @brief  A simple incremental counter
-module Counter(
+module counter(
     input i_clk,
     output [15:0] o_value
 );
@@ -13,3 +13,5 @@ begin
 end
 
 assign o_value = r_value;
+
+endmodule
