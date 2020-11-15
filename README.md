@@ -59,3 +59,5 @@ Counter.v describes a simple counter module that increments its' value on the po
 ## 6. Open Trace file in GTKWave
 
 > counter_trace.vcd
+
+![Screenshot of trace file in gtkwave](./docs/gtkwave_trace.png)
