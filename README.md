@@ -4,6 +4,11 @@ Initial experiments in using verilator to create a C++ simulation of Verilog des
 
 Tested on MacOSX v11.0.1 'Big Sur'
 
+# Prior Art
+
+- [ZipCPU - Looking at Verilator](https://zipcpu.com/blog/2017/06/21/looking-at-verilator.html)
+- [Verilator Documentation](https://www.veripool.org/projects/verilator/wiki/Documentation)
+
 # Install Verilator
 
 > brew install verilator
